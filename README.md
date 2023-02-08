@@ -12,25 +12,36 @@ Software Used :
  
 ## Results: 
 
-  - Creation of Spark DataFrame
+ - Creation of Spark DataFrame
 
     The entire dataset recorded 1,785,997 number of rows in the dataset.
-
+    
+   <img src="https://github.com/hsurisetti/Amazon_Vine_Analysis/blob/main/screenshots/df.png" width=1000 />
 
   ## 1.1 Creation of customers_table DataFrame
-  TODO : - image
+  
+  <img src="https://github.com/hsurisetti/Amazon_Vine_Analysis/blob/main/screenshots/customers_df.png" width=600 />
+  <img src="https://github.com/hsurisetti/Amazon_Vine_Analysis/blob/main/screenshots/customers_table.png" width=400 />
 
   ## 1.2 Creation of products_table DataFrame
-   TODO : -image
+  
+  <img src="https://github.com/hsurisetti/Amazon_Vine_Analysis/blob/main/screenshots/products_df.png" width=600 />
+  <img src="https://github.com/hsurisetti/Amazon_Vine_Analysis/blob/main/screenshots/products_table.png" width=400 />
  
   ## 1.3 Creation of review_id table DataFrame
 
-  TODO : - image
+  <img src="https://github.com/hsurisetti/Amazon_Vine_Analysis/blob/main/screenshots/review_id_df.png" width=700 />
+  <img src="https://github.com/hsurisetti/Amazon_Vine_Analysis/blob/main/screenshots/review_id_table.png" width=400 />
+
 
   ## 1.4 Creation of Vine_table DataFrame
 
-  TODO : - image
+  <img src="https://github.com/hsurisetti/Amazon_Vine_Analysis/blob/main/screenshots/vine_table_df.png" width=600 />
+  <img src="https://github.com/hsurisetti/Amazon_Vine_Analysis/blob/main/screenshots/vine_table.png" width=400 />
 
+  ## Postgres Tables Created  
+ 
+  <img src="https://github.com/hsurisetti/Amazon_Vine_Analysis/blob/main/screenshots/aws_tables.png" width=400 />
 
     
 ## Deliverable 2 Results
